@@ -1,7 +1,5 @@
 📌 CalciSketch — Handwritten Equation Solver
 
-Duration: Nov 2024 – Apr 2025
-
 Overview:
 CalciSketch is a Python-based GUI application that allows users to draw mathematical equations by hand, process the input using image recognition, and evaluate the result in real time.
 
